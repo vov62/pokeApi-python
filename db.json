@@ -1,0 +1,287 @@
+{
+    "pokemons_db": [
+        {
+            "id": "1",
+            "name": "bulbasaur",
+            "height": "7",
+            "weight": "69"
+        },
+        {
+            "id": "6",
+            "name": "charizard",
+            "height": "17",
+            "weight": "905"
+        },
+        {
+            "id": "3",
+            "name": "squirtle",
+            "height": "25",
+            "weight": "250"
+        },
+        {
+            "id": "3",
+            "name": "squirtle",
+            "height": "25",
+            "weight": "250"
+        },
+        {
+            "id": "3",
+            "name": "squirtle",
+            "height": "25",
+            "weight": "250"
+        },
+        {
+            "id": 76,
+            "name": "golem",
+            "height": 14,
+            "weight": 3000
+        },
+        {
+            "id": 128,
+            "name": "tauros",
+            "height": 14,
+            "weight": 884
+        },
+        {
+            "id": 48,
+            "name": "venonat",
+            "height": 10,
+            "weight": 300
+        },
+        {
+            "id": 55,
+            "name": "golduck",
+            "height": 17,
+            "weight": 766,
+            "slot": [
+                {
+                    "slot": 1,
+                    "type": {
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "marowak",
+            "height": 10,
+            "weight": 450,
+            "slot": {
+                "slot": [
+                    "ground"
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "name": "krabby",
+            "height": 4,
+            "weight": 65,
+            "slot": {
+                "slot": [
+                    "water"
+                ]
+            }
+        },
+        {
+            "id": 176,
+            "name": "togetic",
+            "height": 6,
+            "weight": 32,
+            "slot": {
+                "slot": [
+                    "fairy",
+                    "flying"
+                ]
+            }
+        },
+        {
+            "id": 134,
+            "name": "vaporeon",
+            "height": 10,
+            "weight": 290,
+            "slot": [
+                "water"
+            ]
+        },
+        {
+            "id": 75,
+            "name": "graveler",
+            "height": 10,
+            "weight": 1050,
+            "slot": [
+                "rock",
+                "ground"
+            ]
+        },
+        {
+            "id": 137,
+            "name": "porygon",
+            "height": 8,
+            "weight": 365,
+            "slot": [
+                "normal"
+            ]
+        },
+        {
+            "id": 129,
+            "name": "magikarp",
+            "height": 9,
+            "weight": 100,
+            "slot": [
+                "water"
+            ]
+        },
+        {
+            "id": 113,
+            "name": "chansey",
+            "height": 11,
+            "weight": 346,
+            "slot": [
+                "normal"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "blastoise",
+            "height": 16,
+            "weight": 855,
+            "slot": [
+                "water"
+            ]
+        },
+        {
+            "id": 190,
+            "name": "aipom",
+            "height": 8,
+            "weight": 115,
+            "slot": [
+                "normal"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "kakuna",
+            "height": 6,
+            "weight": 100,
+            "slot": [
+                "bug",
+                "poison"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "fearow",
+            "height": 12,
+            "weight": 380,
+            "slot": [
+                "normal",
+                "flying"
+            ]
+        },
+        {
+            "id": 66,
+            "name": "machop",
+            "height": 8,
+            "weight": 195,
+            "slot": [
+                "fighting"
+            ]
+        },
+        {
+            "id": 47,
+            "name": "parasect",
+            "height": 10,
+            "weight": 295,
+            "slot": [
+                "bug",
+                "grass"
+            ]
+        },
+        {
+            "id": 161,
+            "name": "sentret",
+            "height": 8,
+            "weight": 60,
+            "slot": [
+                "normal"
+            ]
+        },
+        {
+            "id": 142,
+            "name": "aerodactyl",
+            "height": 18,
+            "weight": 590,
+            "slot": [
+                "rock",
+                "flying"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "arcanine",
+            "height": 19,
+            "weight": 1550,
+            "slot": {}
+        },
+        {
+            "id": 12,
+            "name": "butterfree",
+            "height": 11,
+            "weight": 320,
+            "slot": [
+                "bug",
+                "flying"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "hitmonchan",
+            "height": 14,
+            "weight": 502,
+            "types": [
+                "fighting"
+            ]
+        },
+        {
+            "id": 94,
+            "name": "gengar",
+            "height": 15,
+            "weight": 405,
+            "types": [
+                "ghost",
+                "poison"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "oddish",
+            "height": 5,
+            "weight": 54,
+            "types": [
+                "grass",
+                "poison"
+            ]
+        },
+        {
+            "id": 90,
+            "name": "shellder",
+            "height": 3,
+            "weight": 40,
+            "types": [
+                "water"
+            ]
+        },
+        {
+            "id": 175,
+            "name": "togepi",
+            "height": 3,
+            "weight": 15,
+            "types": [
+                "fairy"
+            ]
+        }
+    ]
+}
